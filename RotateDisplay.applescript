@@ -33,7 +33,7 @@ tell application "System Events"
 					end try
 				end repeat
 			else
-				log "Currently in portrait display"
+				log "Currently in portrait display."
 				click _rotation
 				keystroke landscapeKey & return
 			end if
