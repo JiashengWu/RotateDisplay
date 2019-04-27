@@ -8,9 +8,6 @@ set portraitKey to "90"
 ------------------------------------------------------------
 -- Toggle landscape/portrait view of external display 
 ------------------------------------------------------------
-#tell application "Finder"
-#	activate desktop
-#end tell
 tell application "System Preferences"
 	reveal anchor "displaysDisplayTab" of pane id "com.apple.preference.displays"
 end tell
