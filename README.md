@@ -12,6 +12,6 @@ Rotate display of external monitor on macOS.
 ### How to find my secondary monitor's name?
 * Click `🍎` -> `System Preferences...` -> `Displays`
 * The secondary monitor's name would appear on the title bar of popup window
-  * like "Acer CB281HK" in the image below:
+  * like "Acer CB281HK" in the screenshot below:
 
 ![Popup Window](popup.png)
