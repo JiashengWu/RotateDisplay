@@ -3,7 +3,7 @@ Rotate display of external monitor on macOS.
 
 ## Usage
 
-* Download and open `RotateDisplay.applescript` with `Script Editor`
+* Download and open [`RotateDisplay.applescript`](https://raw.githubusercontent.com/JiashengWu/RotateDisplay/master/RotateDisplay.applescript) with `Script Editor`
 * Modify parameter `externalDisplay` to your secondary monitor's name
 * Click `Run the Script` to test
 * Export as application, then you can rotate display by double click the app
